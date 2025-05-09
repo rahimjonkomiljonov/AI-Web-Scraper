@@ -9,7 +9,7 @@ A Streamlit-based web scraping tool that extracts and cleans content from websit
 - Display scraped content in an expandable text area.
 - Parse content based on user-defined descriptions using the Ollama language model.
 - Persistent session state for seamless interaction.
-- ![Screenshot 2025-05-09 130509](https://github.com/user-attachments/assets/78455af7-4f83-4f6d-bb92-b81e067e0fc1)
+![Screenshot 2025-05-09 130250](https://github.com/user-attachments/assets/e867a52a-9790-4439-a0f9-7e692f051e6e)
 
 
 ## Prerequisites
